@@ -368,7 +368,7 @@
     },
     "crossOrigin": {
       "type": "string",
-      "description": "Define the crossorigin attribute setting of elements that provide CORS support.",
+      "description": "Define the crossorigin attribute settings of CLI artifacts in the output index.html file",
       "default": "none",
       "enum": [
         "none",
